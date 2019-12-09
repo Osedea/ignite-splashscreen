@@ -1,8 +1,13 @@
 {
   "name": "ignite-splashscreen",
   "description": "A plugin that adds a native splashscreen to your React Native app",
-  "keywords": ["ignite", "splashscreen", "ignite plugin", "react-native"],
-  "version": "0.0.1",
+  "keywords": [
+    "ignite",
+    "splashscreen",
+    "ignite plugin",
+    "react-native"
+  ],
+  "version": "0.0.2",
   "license": "MIT",
   "author": {
     "name": "Adrien THIERY",
@@ -30,5 +35,3 @@
     "prettier": "^1.17.1"
   }
 }
-
-
